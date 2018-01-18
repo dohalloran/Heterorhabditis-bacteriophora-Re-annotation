@@ -15,7 +15,7 @@ Data will also be attached the BioProject [here](https://www.ncbi.nlm.nih.gov/bi
 
 or
 
-2. Clone the Heterorhabditis-bacteriophora-Re-annotation repo  
+2. Click the green "clone or download" button and download the zip    
 
 
 ## Support
