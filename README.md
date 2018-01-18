@@ -9,6 +9,15 @@ Re-annotation data are freely available in the re-annotation directory
 
 Data will also be attached the BioProject [here](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA418589/)
 
+## Installation
+1. Clone the Heterorhabditis-bacteriophora-Re-annotation repo  
+`git clone https://github.com/dohalloran/Heterorhabditis-bacteriophora-Re-annotation.git` 
+
+or
+
+2. Clone the Heterorhabditis-bacteriophora-Re-annotation repo  
+
+
 ## Support
 If you have any problem or suggestion please open an issue [here](https://github.com/dohalloran/Heterorhabditis-bacteriophora-Re-annotation/issues).
 
