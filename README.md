@@ -7,7 +7,7 @@ RNA-seq alignments and ab initio gene prediction software were used produce a re
 ## Data
 Re-annotation data are freely available in the re-annotation directory
 
-Data will also be attached the BioProject [here](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA418589/)
+Data will also be attached to the BioProject [here](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA418589/)
 
 ## Installation
 1. Clone the Heterorhabditis-bacteriophora-Re-annotation repo  
