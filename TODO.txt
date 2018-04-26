@@ -1,0 +1,9 @@
+# List of TODOs for H. bacteriophora re-annotation project
+
+## Masking data
+
+ - [ ] Add the librarie(s) created and used to mask the H. bacteriophora genome for re-annotation.
+
+## Protein hint data
+
+ - [ ] Add the protein hints used for re-annotation

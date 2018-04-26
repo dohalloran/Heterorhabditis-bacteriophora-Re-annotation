@@ -1,5 +1,5 @@
 # Heterorhabditis-bacteriophora-Re-annotation
-RNA-seq alignments and ab initio gene prediction software were used produce a revised annotation for Heterorhabditis bacteriophora
+RNA-seq alignments and ab initio gene prediction software were used to produce a revised annotation for Heterorhabditis bacteriophora
 
 [![GitHub issues](https://img.shields.io/github/issues/dohalloran/Heterorhabditis-bacteriophora-Re-annotation.svg)](https://github.com/dohalloran/Heterorhabditis-bacteriophora-Re-annotation/issues)
 [![GitHub license](https://img.shields.io/badge/license-GPL_3.0-orange.svg)](https://raw.githubusercontent.com/dohalloran/Heterorhabditis-bacteriophora-Re-annotation/master/LICENSE)
