@@ -1,0 +1,12 @@
+Revision history for H. bacteriophora re-annotation project
+
+Version	Date	Location
+
+0.1.0	2018/04/25	Washington, DC
+
+- Added a text file to log changes (Changes.txt).
+- Fixed a typo in README.md.
+- Added TODO.txt to track things that would be nice to add to the repo. 
+- Added a GTF formatted version of the annotation.
+- Updated transcripts using the H. bacteriophora genome from WormBase ParaSite version 10.0 (March 2018) release.
+- Added a README file to the Re-Annotation directory to describe its contents.
