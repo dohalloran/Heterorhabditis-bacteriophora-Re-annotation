@@ -1,22 +1,28 @@
 ######################################################################
- 
+
 README:  Heterorhabditis-bacteriophora-Re-annotation (https://github.com/dohalloran/Heterorhabditis-bacteriophora-Re-annotation/tree/master/Re-Annotation/README)
- 
-Last modified:  April 25, 2018
- 
+
+Last modified:  May 4, 2018
+
 ######################################################################
-______________________________________________________________________ 
- 
-        
-       George WAshington University 
+______________________________________________________________________
+
+
+       George Washington University
              Department of Microbiology, Immunology, and Tropical Medicine
              2300 I Street NW
-             Washington DC, 20052, USA 
+             Washington DC, 20052, USA
 
-______________________________________________________________________ 
+______________________________________________________________________
 
 
-The H. bacteriophora re-annotation project was created to refine the reference annotation using RNA-seq data and BRAKER2 software. A masking library and protein hints were also utilized to further enhance the re-annotation. This README file describes the files contained within the Re-Annotation directory.
+The H. bacteriophora re-annotation project was created to refine the reference annotation using RNA-seq data and BRAKER2 software. A masking library and protein hints were also utilized to further enhance the re-annotation. This README file describes the files contained within the Re-Annotation directory. Findings related to these files were reported in:
+
+Jonathan Vadnal, Olivia G. Granger, Ramesh Ratnappan, Ioannis Eleftherianos, Damien M. O'Halloran, John M. Hawdon,
+Refined ab initio gene predictions of Heterorhabditis bacteriophora using RNA-seq,
+International Journal for Parasitology, 2018,
+ISSN 0020-7519,
+https://doi.org/10.1016/j.ijpara.2018.02.001.
 
 
 ==================
