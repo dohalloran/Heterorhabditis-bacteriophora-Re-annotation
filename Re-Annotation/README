@@ -52,4 +52,8 @@ Gzipped FASTA formatted text file containing CDS transcripts from the refined H.
 
 H_bacteriophora_TT01_BRAKER2_soft_f_proteins.faa.gz
 ---------------------------------------------------
+<<<<<<< HEAD
 Gzipped FASTA formatted text file containing the amino acid sequences from the genes predicted by the refined H. bacteriophora BRAKER2 annotation. This (uncompressed) file was generated directly by BRAKER2.
+=======
+Gzipped FASTA formatted text file containing the amino acid sequences from the genes predicted by the refined H. bacteriophora BRAKER2 annotation. This (uncompressed) file was generated directly by BRAKER2.
+>>>>>>> ba4e868de00be846f60f3b6d27698dfed04412cf
