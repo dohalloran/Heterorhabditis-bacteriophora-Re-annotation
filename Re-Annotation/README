@@ -1,0 +1,55 @@
+######################################################################
+
+README:  Heterorhabditis-bacteriophora-Re-annotation (https://github.com/dohalloran/Heterorhabditis-bacteriophora-Re-annotation/tree/master/Re-Annotation/README)
+
+Last modified:  May 4, 2018
+
+######################################################################
+______________________________________________________________________
+
+
+       George Washington University
+             Department of Microbiology, Immunology, and Tropical Medicine
+             2300 I Street NW
+             Washington DC, 20052, USA
+
+______________________________________________________________________
+
+
+The H. bacteriophora re-annotation project was created to refine the reference annotation using RNA-seq data and BRAKER2 software. A masking library and protein hints were also utilized to further enhance the re-annotation. This README file describes the files contained within the Re-Annotation directory. Findings related to these files were reported in:
+
+Jonathan Vadnal, Olivia G. Granger, Ramesh Ratnappan, Ioannis Eleftherianos, Damien M. O'Halloran, John M. Hawdon,
+Refined ab initio gene predictions of Heterorhabditis bacteriophora using RNA-seq,
+International Journal for Parasitology, 2018,
+ISSN 0020-7519,
+https://doi.org/10.1016/j.ijpara.2018.02.001.
+
+
+==================
+Directory Contents
+==================
+
+
+README
+------
+This README file.
+
+
+H_bacteriophora_TT01_BRAKER2_soft_f_annotations.gff3.gz
+-------------------------------------------------------
+Gzipped GFF3 formatted text file containing the refined H. bacteriophora annotations produced by BRAKER2 using RNA-seq hints generated from hemolymph-activated and non-activated infective juveniles. In addition to the RNA-seq hints, soft masking of the genome, protein hints, and the BRAKER2 --filterOutShort option were used to enhance the annotation. This (uncompressed) file was generated directly by BRAKER2.
+
+
+H_bacteriophora_TT01_BRAKER2_soft_f_annotations.gtf.gz
+------------------------------------------------------
+The same annotation data as H_bacteriophora_TT01_BRAKER2_soft_f_annotations.gff3.gz but in a gzipped GTF formatted text file. This (uncompressed) file was generated directly by BRAKER2.
+
+
+H_bacteriophora_TT01_BRAKER2_soft_f_CDS_transcripts.fna.gz
+----------------------------------------------------------
+Gzipped FASTA formatted text file containing CDS transcripts from the refined H. bacteriophora BRAKER2 annotation. Transcripts were generated using gffread, the WormBase Parasite Version 10 release of the H. bacteriophora genome, and the compressed H_bacteriophora_TT01_BRAKER2_soft_f_annotations.gtf annotation file contained within this directory.
+
+
+H_bacteriophora_TT01_BRAKER2_soft_f_proteins.faa.gz
+---------------------------------------------------
+Gzipped FASTA formatted text file containing the amino acid sequences from the genes predicted by the refined H. bacteriophora BRAKER2 annotation. This (uncompressed) file was generated directly by BRAKER2.

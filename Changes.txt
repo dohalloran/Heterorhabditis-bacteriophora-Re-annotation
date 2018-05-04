@@ -1,0 +1,13 @@
+Revision history for H. bacteriophora re-annotation project
+
+Version	Date	Location
+
+0.1.0	2018/05/04	Washington, DC
+
+- Added a text file to log changes (Changes.txt).
+- Fixed a typo in README.md.
+- Added TODO.txt to track things that would be nice to add to the repo.
+- Updated annotation. This annotation was produced using the --filterOutShort option in BRAKER2. Based on manually comparing the output annotations of different BRAKER2 options, the combination of soft masking and --filterOutShort appears to give better orthologies with conserved C. elegans proteins.
+- Added a GTF formatted version of the annotation.
+- Updated transcripts using the H. bacteriophora genome from WormBase ParaSite version 10.0 (March 2018) release.
+- Added a README file to the Re-Annotation directory to describe its contents.
